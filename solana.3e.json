@@ -54,8 +54,8 @@
         "name": "tokenized-stock",
         "description": "Tokenized stocks are tokenized derivatives that represent traditional securities, particularly shares in publicly firms traded on regulated exchanges"
       
-    },
-    {
+      },
+      {
       "chainId": 101,
       "address": "CxvGJ1Ph7hKaF8HpiytKwWRNm5uezH4MkYcXXw52WvVP",
       "symbol": "3E",
@@ -65,10 +65,10 @@
       "tags": [
         "leveraged"
       ]
-    },
-"version": {
-  "major": 0,
-  "minor": 3,
-  "patch": 3
-}
-}
+      },
+      "version": {
+      "major": 0,
+      "minor": 3,
+      "patch": 3
+      }
+      }
