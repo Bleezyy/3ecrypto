@@ -63,10 +63,9 @@
       "decimals": 4,
       "logoURI": "https://raw.githubusercontent.com/Bleezyy/Epitaph/main/E3.512x512.png",
       "tags": [
-        "utility-token"
+        "leveraged"
       ]
-    }
-],
+    },
 "version": {
   "major": 0,
   "minor": 3,
